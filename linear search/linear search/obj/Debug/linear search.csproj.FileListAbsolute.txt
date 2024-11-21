@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\bin\Debug\linear search.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\bin\Debug\linear search.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\bin\Debug\linear search.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\obj\Debug\linear search.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\obj\Debug\linear search.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\obj\Debug\linear search.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\linear search\linear search\obj\Debug\linear search.pdb

@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\bin\Debug\priority queue.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\bin\Debug\priority queue.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\bin\Debug\priority queue.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\obj\Debug\priority queue.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\obj\Debug\priority queue.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\obj\Debug\priority queue.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\priority queue\priority queue\obj\Debug\priority queue.pdb

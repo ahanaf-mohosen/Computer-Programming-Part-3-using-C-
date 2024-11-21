@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\bin\Debug\insertion sort.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\bin\Debug\insertion sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\bin\Debug\insertion sort.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\obj\Debug\insertion sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\insertion sort\insertion sort\obj\Debug\insertion sort.pdb

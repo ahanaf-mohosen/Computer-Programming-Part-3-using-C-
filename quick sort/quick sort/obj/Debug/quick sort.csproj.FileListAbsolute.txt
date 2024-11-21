@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\bin\Debug\quick sort.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\bin\Debug\quick sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\bin\Debug\quick sort.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\obj\Debug\quick sort.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\obj\Debug\quick sort.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\obj\Debug\quick sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\quick sort\quick sort\obj\Debug\quick sort.pdb

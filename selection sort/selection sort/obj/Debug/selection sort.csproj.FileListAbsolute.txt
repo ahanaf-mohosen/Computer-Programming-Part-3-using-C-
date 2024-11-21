@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\bin\Debug\selection sort.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\bin\Debug\selection sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\bin\Debug\selection sort.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\obj\Debug\selection sort.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\obj\Debug\selection sort.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\obj\Debug\selection sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\selection sort\selection sort\obj\Debug\selection sort.pdb

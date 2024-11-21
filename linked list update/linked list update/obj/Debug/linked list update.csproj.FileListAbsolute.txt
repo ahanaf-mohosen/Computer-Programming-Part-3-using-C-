@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\bin\Debug\linked list update.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\bin\Debug\linked list update.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\bin\Debug\linked list update.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\obj\Debug\linked list update.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\obj\Debug\linked list update.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\obj\Debug\linked list update.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\linked list update\linked list update\obj\Debug\linked list update.pdb

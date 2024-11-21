@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\bin\Debug\bubble sort.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\bin\Debug\bubble sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\bin\Debug\bubble sort.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\obj\Debug\bubble sort.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\obj\Debug\bubble sort.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\obj\Debug\bubble sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\bubble sort\bubble sort\obj\Debug\bubble sort.pdb

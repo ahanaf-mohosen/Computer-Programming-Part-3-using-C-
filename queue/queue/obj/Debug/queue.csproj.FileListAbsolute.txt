@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\bin\Debug\queue.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\bin\Debug\queue.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\bin\Debug\queue.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\obj\Debug\queue.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\queue\queue\obj\Debug\queue.pdb

@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\bin\Debug\merge sort.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\bin\Debug\merge sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\bin\Debug\merge sort.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\obj\Debug\merge sort.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\obj\Debug\merge sort.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\obj\Debug\merge sort.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\merge sort\merge sort\obj\Debug\merge sort.pdb

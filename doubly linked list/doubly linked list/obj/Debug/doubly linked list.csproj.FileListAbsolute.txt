@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\obj\Debug\doubly linked list.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\obj\Debug\doubly linked list.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\bin\Debug\doubly linked list.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\bin\Debug\doubly linked list.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\bin\Debug\doubly linked list.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\obj\Debug\doubly linked list.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\doubly linked list\doubly linked list\obj\Debug\doubly linked list.pdb

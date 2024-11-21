@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\max heap sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745BB1F9-629C-49EE-B0B7-9FC33A227A3D}|max heap sort\\max heap sort.csproj|f:\\self development\\computer-programming-part-3-using-c#\\max heap sort\\max heap sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745BB1F9-629C-49EE-B0B7-9FC33A227A3D}|max heap sort\\max heap sort.csproj|solutionrelative:max heap sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\max heap sort\\max heap sort\\Program.cs",
+              "RelativeDocumentMoniker": "max heap sort\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\max heap sort\\max heap sort\\Program.cs",
+              "RelativeToolTip": "max heap sort\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAkwG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:04:37.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\counting sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2012B06-57E9-413C-8C50-3DE8C423411C}|counting sort\\counting sort.csproj|f:\\self development\\computer-programming-part-3-using-c#\\counting sort\\counting sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2012B06-57E9-413C-8C50-3DE8C423411C}|counting sort\\counting sort.csproj|solutionrelative:counting sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\counting sort\\counting sort\\Program.cs",
+              "RelativeDocumentMoniker": "counting sort\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer-Programming-Part-3-using-C#\\counting sort\\counting sort\\Program.cs",
+              "RelativeToolTip": "counting sort\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:54:14.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

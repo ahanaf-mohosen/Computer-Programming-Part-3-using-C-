@@ -1,0 +1,7 @@
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\bin\Debug\stack.exe.config
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\bin\Debug\stack.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\bin\Debug\stack.pdb
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\obj\Debug\stack.csproj.AssemblyReference.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\obj\Debug\stack.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\obj\Debug\stack.exe
+F:\Self Development\Computer-Programming-Part-3-using-C#\stack\stack\obj\Debug\stack.pdb
